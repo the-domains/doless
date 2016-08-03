@@ -6,9 +6,10 @@ color:
   saturation: 0.7969160596840084
   rhythmicContrast: 0.3499285930301994
   brandColors:
-    - '#1D1B24'
-    - '#FDFDFF'
-    - '#9D1A38'
-    - '#9B8179'
-    - '#00A4CC'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: doLESS
+title: why do more
