@@ -11,6 +11,10 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
 layout_spectrum: 0.11448657256551087
-name: doLESS
+author:
+  name: Tim Cyr
+  email: dolessproject@gmail.com
+  url: www.doless.ca
+name: the doLESS project
 title: why do more
 description: when you can do LESS and experience MORE
