@@ -1,0 +1,14 @@
+layout_spectrum: 0.11448657256551087
+typography_spectrum: 0.970404586289078
+color:
+  brandStrength: 0.30651635956019163
+  lightness: 0.5214064037427306
+  saturation: 0.7969160596840084
+  rhythmicContrast: 0.3499285930301994
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: doLESS
